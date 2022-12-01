@@ -1,0 +1,29 @@
+
+.btn-custom-secondary{
+    background-color: #e2e2e2;
+    color:#0c1616;
+}
+
+.btn-custom-pink{
+    background: linear-gradient(90deg, rgb(140, 84, 251) 0%, rgb(252, 100, 196) 75%);
+    color:#0c1616;
+}
+
+.text-custom-dark{
+    color:#0c1616!important;
+}
+
+.or {
+    width: 344px;
+    text-align: center;
+    border-bottom: 1px solid #8b95a1;
+    line-height: .1em;
+    margin: 0 auto;
+}
+
+.or span {
+    background: #fff;
+    padding: 0 20px;
+    font-size: 16px;
+    color: #8b95a1;
+}
